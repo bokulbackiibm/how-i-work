@@ -1,25 +1,27 @@
-# How I Work - [Your Name]
+# How I Work - Bo Kulbacki 
 
 ## 1. My Role and Responsibilities
-- Brief description of your position
-- Key areas of focus and primary responsibilities
-- How my role contributes to the company's mission
+- AI Engineer: Responsible for helping develeop pilots for our FSM clients with a focus on our AI solutions. 
+- Key areas of focus: AI Products - anything under watsonx, assistants, orchestrate
+- Primary responsiblities: Building pilots that ensure a technical solution aligns with the business outcome for a client 
+- How my role contributes to the company's mission: My role contributes to IBM's mission to help our client's solve their problems with IBM solutions. 
 
 ## 2. My Core Values
-- List 3-5 core values that guide your work and decision-making
+- 3-5 core values that guide my work and decision-making
+- Honesty, Curiosity, Dependability, Authenticity
 - Brief explanation of how these values manifest in your daily work
 
 ## 3. Communication Preferences
-- Preferred methods of communication (e.g., email, Slack, in-person)
-- Response times and availability
-- Meeting preferences (frequency, duration, style)
-- How to reach me in emergencies
+- Preferred methods of communication: Slack first, then email 
+- I am usually ok to respond within an hour. My availability is 5/6am PST to 4/5pmPST. 
+- I find that constant meetings slow produtivity on other work that needs to be done. I am all for meetings that are specific and have an action item. Even quick slack huddles are great.  
+- How to reach me in emergencies: Cell: 720-539-2166
 
 ## 4. Work Style
-- Are you an early bird or night owl?
-- Do you prefer collaborative or independent work?
+- I prefer to be an early bird, so working in the mornings has been nice. 
+- I prefer collaborative work. I find that working with people is much more productive. 
 - How do you approach deadlines and time management?
-- Your approach to work-life integration
+- Work-life integration: Ideally these are separate for me. I find that I balance best on the days that I go into the office and can leave work there. 
 
 ## 5. Decision-Making Process
 - How you typically approach problems
