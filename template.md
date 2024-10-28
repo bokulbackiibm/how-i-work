@@ -24,7 +24,7 @@
 - Work-life integration: Ideally these are separate for me. I find that I balance best on the days that I go into the office and can leave work there. 
 
 ## 5. Decision-Making Process
-- How you typically approach problems
+- How you typically approach problems: 
 - What information you need to make decisions
 - How you involve others in decision-making
 - Your risk tolerance and how you weigh trade-offs
